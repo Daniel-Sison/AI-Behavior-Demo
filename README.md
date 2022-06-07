@@ -3,7 +3,8 @@
 
 Please note that this is repository is just a demo mainly to showcase my style of programming.
 
-
+--
+--
 
 Installation Instructions:
 
@@ -14,11 +15,13 @@ Installation Instructions:
      
   2. The folders under "ReplicatedStorage" should be placed under "ReplicatedStorage".
 
-
+--
+--
 
 The example game has been uploaded as well
 with all of the folders and scripts in the right places.
 
+--
 
 It is called "AI_Example.rbxl".
 
