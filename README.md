@@ -16,6 +16,9 @@ Installation Instructions:
 
 
 
-The example game has been uploaded as well with all of the folders and scripts in the right places.
+The example game has been uploaded as well
+with all of the folders and scripts in the right places.
+
+
 It is called "AI_Example.rbxl".
 
